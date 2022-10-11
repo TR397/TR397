@@ -8,5 +8,5 @@ When WT ... 13 came out, heaven ,, FMC worked.
 Microsoft update 10 came out and all CJ4 cockipt screens turned white.
 WT ... 14 fixed the white screens but reverted the CJ4 back to the old default.
 Now I cannot get back the functiopning FMC on the CJ4.
-Reinstalling MSFS twice did good. (Unable to delete stuff on x-box cloud.)
+Reinstalling MSFS twice did no good. (Unable to delete stuff on x-box cloud.)
 Help an old man!
